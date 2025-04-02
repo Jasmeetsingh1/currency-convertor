@@ -12,6 +12,8 @@ function useCurrencyInfo(currency){
     }, [currency])
     console.log(data);
     return data
+    //yha par sirf data return hoga
 }
 
 export default useCurrencyInfo;
+// yha maine poora ka poora hook hi return krdia to jo value chaiye vo miljayegi
